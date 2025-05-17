@@ -71,7 +71,7 @@ const IndustrySelector = () => {
     phoneNumber: "",
     message: "",
   });
-  console.log(formData);
+  //console.log(formData);
 
   let solutions = [
     "Wave-Price Engine",
