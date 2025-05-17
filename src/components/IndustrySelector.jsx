@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { GiHamburgerMenu } from "react-icons/gi";
 import "./IndustrySelector.css";
-import publicc from "../assets/icons/Public.png";
+import publicc from "../assets/icons/public.png";
 import oil from "../assets/icons/Oil.png";
 import logi from "../assets/icons/Logi.png";
 import mining from "../assets/icons/Mining.png";
